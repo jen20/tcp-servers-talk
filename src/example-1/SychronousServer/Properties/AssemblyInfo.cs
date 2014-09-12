@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AsyncTcpServers.Core")]
+[assembly: AssemblyTitle("SychronousServer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Vagrant Inc.")]
-[assembly: AssemblyProduct("AsyncTcpServers.Core")]
+[assembly: AssemblyProduct("SychronousServer")]
 [assembly: AssemblyCopyright("Copyright © Vagrant Inc. 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("adca9eeb-3352-4844-a507-b3056062673c")]
+[assembly: Guid("c366e1f8-9c7f-4f7e-859b-069a467d356d")]
 
 // Version information for an assembly consists of the following four values:
 //
